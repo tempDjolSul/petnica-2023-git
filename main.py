@@ -1,3 +1,3 @@
 
 print("Hello git")
-echo Yeah
+print("Nova izmena")
